@@ -8,3 +8,5 @@ Allele1/Allele2 counts <= 0.2, called as ZW genotype
 0.70 <= Allele1/Allele2 counts <= 3, called as ZW genotype
 Any other value = "Weird Ratio"
 It compares phenotypic sex calls (an input text file) with the genotypic sex calls 
+example input file, "ZW_pheno_L0450.txt" included
+example output file, "L0450.txt" included
